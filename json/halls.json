@@ -1,0 +1,33 @@
+{"hall1":{
+    "Saturday":[],
+    "Sunday":[],
+    "Monday":[],
+    "Tuesday":[{"name":"doctor1","start":"9:00","end":"10:00","subject":"Electronics"}
+,{"name":"doctor2","start":"10:00","end":"11:00","subject":"Electronics2"},
+{"name":"doctor3","start":"11:00","end":"12:00","subject":"Electronics3"},
+{"name":"doctor2","start":"12:00","end":"1:00","subject":"Electronics4"},
+{"name":"doctor2","start":"1:00","end":"2:00","subject":"Electronics5"},
+{"name":"doctor2","start":"2:00","end":"3:00","subject":"Electronics6"}
+],
+"Wednesday":[{"name":"doctor2","start":"11:00","end":"12:00","subject":"Programing1"}
+,{"name":"doctor2","start":"1:00","end":"2:00","subject":"Programing2"}
+,{"name":"doctor3","start":"3:00","end":"4:00","subject":"Programing3"}
+,{"name":"doctor1","start":"4:00","end":"5:00","subject":"Programing4"}
+,{"name":"doctor2","start":"5:00","end":"6:00","subject":"Programing5"}],
+"Thursday":[]
+}
+,
+"hall2":{
+    "Saturday":[{"name":"doctor3","start":"9:00","end":"11:00","subject":"Signals1"}
+,{"name":"doctor4","start":"1:00","end":"2:00","subject":"Signals2"},
+{"name":"doctor5","start":"2:00","end":"3:00","subject":"Signals3"},
+{"name":"doctor1","start":"3:00","end":"4:00","subject":"Signals4"}],
+
+"Sunday":[],"Monday":[],
+"Tuesday":[],"Wednesday":[],
+
+"Thursday":[{"name":"doctor6","start":"10:00","end":"11:00","subject":"physics1"},
+{"name":"doctor4","start":"11:00","end":"12:00","subject":"physics2"},
+{"name":"doctor3","start":"1:00","end":"2:00","subject":"physics3"},
+{"name":"doctor1","start":"2:00","end":"3:00","subject":"physics4"}]
+}}
